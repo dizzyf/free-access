@@ -4,7 +4,7 @@
 3. delete everything except these files https://gamesense.me/ceGTMZiX
 4. paste the bot code in server.js
 5. import discord.js
-6. paste your bot token in the last line
+6. paste your bot token in the last line(line 88)
 # disclaimers
 1. bot will only run while you have the tab open
 2. bot is very mean D:
