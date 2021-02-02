@@ -1,7 +1,7 @@
 let Discord = require("discord.js");
 let client = new Discord.Client();
 client.on('ready', () => {
- client.user.setActivity('beg more', { type: 'WATCHING' })
+ client.user.setActivity('PLEASE GIVE ME ACCESS!!!', { type: 'WATCHING' })
 })
 client.on("guildMemberAdd", member => {
 const myServer = "794624598808985644"; 
@@ -31,6 +31,39 @@ message.channel.send("die in a fire nn no access for you fucking retard dog")
 if (message.content === "ACCESS") {
 message.channel.send("die in a fire nn no access for you fucking retard dog")
 }
+  if (message.content === "ACCESS!") {
+message.channel.send("die in a fire nn no access for you fucking retard dog")
+}
+  if (message.content === "Access!") {
+message.channel.send("die in a fire nn no access for you fucking retard dog")
+}
+  if (message.content === "access!") {
+message.channel.send("die in a fire nn no access for you fucking retard dog")
+}
+  if (message.content === "access?") {
+message.channel.send("die in a fire nn no access for you fucking retard dog")
+}
+  if (message.content === "Access?") {
+message.channel.send("die in a fire nn no access for you fucking retard dog")
+}
+  if (message.content === "ACCESS?") {
+message.channel.send("die in a fire nn no access for you fucking retard dog")
+}
+  if (message.content === "please give me access") {
+message.channel.send("die in a fire nn no access for you fucking retard dog")
+}
+  
+if (message.content === "give me access please") {
+message.channel.send("die in a fire nn no access for you fucking retard dog")
+}
+  if (message.content === "Please give me access!") {
+message.channel.send("die in a fire nn no access for you fucking retard dog")
+}
+if (message.content === ":flushed:") {
+message.channel.send("me when i see your mom lmfao")
+}
+  
+
   if (message.content === "shit bot") {
 message.channel.send("your mom is shit lmfao")
 }
